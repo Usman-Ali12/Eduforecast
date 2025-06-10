@@ -1,0 +1,44 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model fact_dropout {
+  id               Int      @id @default(autoincrement())
+  studentName      String
+  predictedDropout Boolean
+  predictionDate   DateTime @default(now())
+  probability      Float?
+}
+
+
+model dropoutPrediction {
+  id             Int      @id @default(autoincrement())
+  studentId      Int
+  prediction     String   // e.g. "Dropout Risk" or "Safe"
+  probability    Float    // e.g. 0.75 for 75%
+  predictionDate DateTime @default(now())
+
+  @@unique([studentId, predictionDate]) // prevent duplicates for same student & date
+}
+
+
+model User {
+  id            String   @id @default(cuid())
+  email         String   @unique
+  password      String?  // null if user is from Firebase
+  name          String?
+  displayName   String?
+  photoURL      String?
+  firebaseUid   String?  @unique // Optional Firebase UID
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Add relations to other tables if needed
+  // Example:
+  // timetables    Timetable[]
+}

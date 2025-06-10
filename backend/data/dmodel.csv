@@ -1,0 +1,236 @@
+"student_id","institution_name","ranking","program","gender","age","gpa","attendance_rate","province","dropout_reason","dropout_status"
+1,"Punjab University",1,"BSIT","F",18,"1.70","35.82","Punjab","Academic performance issues",True
+2,"Punjab University",1,"BSSE","F",20,"2.21","72.60","Punjab",NULL,False
+3,"Punjab University",1,"BSSE","M",20,"2.46","93.15","Punjab",NULL,False
+4,"Punjab University",1,"BBA","F",23,"1.34","64.02","Punjab","Family or personal problems",True
+5,"Punjab University",1,"BSIT","F",22,"2.97","61.63","Punjab",NULL,False
+6,"Punjab University",1,"BSSE","M",25,"3.20","81.70","Punjab",NULL,False
+7,"Punjab University",1,"BSCS","M",18,"1.94","85.64","Punjab",NULL,False
+8,"Punjab University",1,"BSSE","F",18,"1.42","32.32","Punjab","Academic performance issues",True
+9,"Punjab University",1,"BBA","F",24,"2.52","36.37","Punjab","Academic performance issues",True
+10,"Punjab University",1,"BSIT","M",21,"2.80","70.23","Punjab",NULL,False
+11,"Punjab University",1,"BSCS","M",23,"2.15","54.54","Punjab",NULL,False
+12,"Punjab University",1,"BBA","F",25,"3.76","99.42","Punjab",NULL,False
+13,"Punjab University",1,"BSIT","M",19,"3.01","66.29","Punjab",NULL,False
+14,"Punjab University",1,"BSIT","M",25,"2.86","69.99","Punjab",NULL,False
+15,"Punjab University",1,"BSCS","F",21,"1.96","64.94","Punjab",NULL,False
+16,"Punjab University",1,"BSCS","F",24,"2.12","85.31","Punjab",NULL,False
+17,"Punjab University",1,"BSCS","M",19,"2.99","23.94","Punjab","Financial difficulties",True
+18,"Punjab University",1,"BBA","M",22,"1.82","52.29","Punjab","Family or personal problems",True
+19,"Punjab University",1,"BBA","M",22,"3.75","84.79","Punjab",NULL,False
+20,"Punjab University",1,"BSSE","F",23,"3.94","73.15","Punjab",NULL,False
+21,"Punjab University",1,"BSSE","M",23,"2.00","69.64","Punjab",NULL,False
+22,"Punjab University",1,"BSSE","F",23,"3.14","95.56","Punjab",NULL,False
+23,"Punjab University",1,"BSCS","M",20,"2.75","50.99","Punjab","Financial difficulties",True
+24,"Punjab University",1,"BSCS","M",19,"2.99","83.37","Punjab",NULL,False
+25,"Punjab University",1,"BSIT","M",19,"1.82","51.11","Punjab",NULL,False
+26,"Punjab University",1,"BSSE","M",20,"3.52","67.16","Punjab",NULL,False
+27,"Punjab University",1,"BBA","M",23,"2.96","90.22","Punjab",NULL,False
+28,"Punjab University",1,"BBA","F",20,"1.66","63.02","Punjab","Academic performance issues",True
+29,"Punjab University",1,"BSIT","M",20,"1.41","25.50","Punjab","Academic performance issues",True
+30,"Punjab University",1,"BSSE","F",24,"1.10","36.00","Punjab","Lack of interest in program",True
+31,"Punjab University",1,"BBA","M",22,"3.68","77.05","Punjab",NULL,False
+32,"Punjab University",1,"BSSE","F",23,"2.63","29.84","Punjab","Family or personal problems",True
+33,"Punjab University",1,"BSSE","F",25,"2.87","50.54","Punjab",NULL,False
+34,"Punjab University",1,"BBA","M",19,"1.01","23.33","Punjab","Academic performance issues",True
+35,"Punjab University",1,"BSCS","F",22,"3.97","62.07","Punjab",NULL,False
+36,"Punjab University",1,"BSSE","F",24,"1.90","88.16","Punjab",NULL,False
+37,"Punjab University",1,"BBA","M",21,"2.90","90.38","Punjab",NULL,False
+38,"Punjab University",1,"BBA","F",18,"1.90","50.35","Punjab",NULL,False
+39,"Punjab University",1,"BSIT","F",25,"2.39","77.12","Punjab","Financial difficulties",True
+40,"Punjab University",1,"BSCS","F",22,"1.58","22.17","Punjab","Lack of interest in program",True
+41,"Punjab University",1,"BSIT","M",22,"3.31","89.86","Punjab",NULL,False
+42,"Punjab University",1,"BBA","M",18,"3.76","70.70","Punjab",NULL,False
+43,"Punjab University",1,"BSSE","M",24,"2.72","53.99","Punjab",NULL,False
+44,"Punjab University",1,"BSSE","F",22,"2.74","74.59","Punjab",NULL,False
+45,"Punjab University",1,"BSSE","M",23,"2.92","56.76","Punjab",NULL,False
+46,"Punjab University",1,"BSCS","F",23,"3.35","65.73","Punjab",NULL,False
+47,"Punjab University",1,"BSCS","M",22,"2.27","43.67","Punjab","Lack of interest in program",True
+48,"Punjab University",1,"BSSE","F",18,"2.23","82.02","Punjab",NULL,False
+49,"Punjab University",1,"BSCS","F",24,"2.81","80.31","Punjab",NULL,False
+50,"Punjab University",1,"BSIT","M",23,"1.83","60.47","Punjab","Lack of interest in program",True
+51,"Punjab University",1,"BBA","M",23,"2.98","73.30","Punjab",NULL,False
+52,"Punjab University",1,"BSSE","F",20,"1.31","24.00","Punjab","Academic performance issues",True
+53,"Punjab University",1,"BSCS","M",18,"1.91","59.05","Punjab","Financial difficulties",True
+54,"Punjab University",1,"BSSE","F",21,"1.86","92.56","Punjab",NULL,False
+55,"Punjab University",1,"BSSE","M",19,"1.69","49.44","Punjab","Financial difficulties",True
+56,"Punjab University",1,"BSCS","F",21,"3.53","89.54","Punjab",NULL,False
+57,"Punjab University",1,"BSCS","F",22,"3.82","94.98","Punjab",NULL,False
+58,"Punjab University",1,"BSSE","F",24,"2.71","86.67","Punjab",NULL,False
+59,"Punjab University",1,"BSIT","M",23,"2.06","64.90","Punjab","Financial difficulties",True
+60,"Punjab University",1,"BSSE","F",25,"1.82","46.23","Punjab","Family or personal problems",True
+61,"Punjab University",1,"BSIT","M",21,"2.94","83.97","Punjab",NULL,False
+62,"Punjab University",1,"BBA","F",18,"3.99","53.49","Punjab",NULL,False
+63,"Punjab University",1,"BSSE","M",23,"2.75","67.18","Punjab",NULL,False
+64,"Punjab University",1,"BSCS","M",20,"2.00","59.92","Punjab",NULL,False
+65,"Punjab University",1,"BSSE","F",25,"1.54","78.72","Punjab","Family or personal problems",True
+66,"Punjab University",1,"BBA","M",21,"1.71","90.79","Punjab",NULL,False
+67,"Punjab University",1,"BSCS","M",18,"1.90","92.26","Punjab",NULL,False
+68,"Punjab University",1,"BSIT","M",21,"2.82","92.23","Punjab",NULL,False
+69,"Punjab University",1,"BBA","F",18,"2.93","76.38","Punjab",NULL,False
+70,"Punjab University",1,"BBA","M",23,"2.46","62.39","Punjab",NULL,False
+71,"Punjab University",1,"BSSE","M",22,"3.51","84.53","Punjab",NULL,False
+72,"Punjab University",1,"BSSE","F",25,"3.34","67.49","Punjab",NULL,False
+73,"Punjab University",1,"BSCS","F",18,"2.55","96.25","Punjab",NULL,False
+74,"Punjab University",1,"BSIT","M",23,"3.39","88.65","Punjab",NULL,False
+75,"Punjab University",1,"BBA","M",19,"1.62","60.77","Punjab",NULL,False
+76,"Punjab University",1,"BSIT","F",24,"2.05","20.82","Punjab","Financial difficulties",True
+77,"Punjab University",1,"BSIT","F",25,"2.76","65.96","Punjab","Lack of interest in program",True
+78,"Punjab University",1,"BSCS","M",23,"3.19","63.68","Punjab",NULL,False
+79,"Punjab University",1,"BSCS","M",18,"1.66","31.01","Punjab","Family or personal problems",True
+80,"Punjab University",1,"BSCS","F",18,"3.26","68.37","Punjab",NULL,False
+81,"Punjab University",1,"BBA","M",25,"2.56","47.55","Punjab","Family or personal problems",True
+82,"Punjab University",1,"BBA","M",24,"1.02","42.47","Punjab","Family or personal problems",True
+83,"Punjab University",1,"BSSE","M",19,"2.34","85.54","Punjab",NULL,False
+84,"Punjab University",1,"BSIT","F",25,"2.45","61.25","Punjab","Academic performance issues",True
+85,"Punjab University",1,"BSCS","M",25,"3.68","78.26","Punjab",NULL,False
+86,"Punjab University",1,"BSIT","M",20,"2.18","54.14","Punjab",NULL,False
+87,"Punjab University",1,"BSCS","F",21,"3.23","91.66","Punjab",NULL,False
+88,"Punjab University",1,"BBA","M",22,"2.41","52.46","Punjab",NULL,False
+89,"Punjab University",1,"BBA","M",22,"2.83","77.29","Punjab",NULL,False
+90,"Punjab University",1,"BSIT","M",24,"3.99","53.93","Punjab",NULL,False
+91,"Punjab University",1,"BSSE","M",21,"1.59","86.92","Punjab",NULL,False
+92,"Punjab University",1,"BSSE","F",21,"2.66","30.61","Punjab","Family or personal problems",True
+93,"Punjab University",1,"BSIT","F",19,"2.36","76.08","Punjab",NULL,False
+94,"Punjab University",1,"BSSE","M",23,"3.00","51.26","Punjab",NULL,False
+95,"Punjab University",1,"BSCS","F",20,"2.09","81.08","Punjab",NULL,False
+96,"Punjab University",1,"BSIT","F",18,"3.70","74.24","Punjab",NULL,False
+97,"Punjab University",1,"BSIT","M",24,"2.85","40.74","Punjab","Family or personal problems",True
+98,"Punjab University",1,"BSIT","F",25,"1.46","48.26","Punjab","Family or personal problems",True
+99,"Punjab University",1,"BBA","M",24,"1.64","86.54","Punjab",NULL,False
+100,"Punjab University",1,"BSSE","F",25,"1.98","79.00","Punjab","Financial difficulties",True
+101,"FAST NUCES",3,"BSCS","F",21,"2.02","50.48","Sindh",NULL,False
+102,"FAST NUCES",3,"BSCS","M",23,"2.70","69.11","Sindh",NULL,False
+103,"FAST NUCES",3,"BSIT","M",20,"2.51","53.83","Sindh",NULL,False
+104,"FAST NUCES",3,"BSCS","M",24,"2.60","76.88","Sindh",NULL,False
+105,"FAST NUCES",3,"BSIT","M",22,"2.28","88.03","Sindh",NULL,False
+106,"FAST NUCES",3,"BBA","M",19,"3.02","92.82","Sindh",NULL,False
+107,"FAST NUCES",3,"BSIT","M",19,"1.55","75.27","Sindh",NULL,False
+108,"FAST NUCES",3,"BSCS","M",18,"1.25","60.37","Sindh","Academic performance issues",True
+109,"FAST NUCES",3,"BSCS","F",23,"2.71","66.21","Sindh",NULL,False
+110,"FAST NUCES",3,"BBA","M",22,"2.63","55.15","Sindh",NULL,False
+111,"FAST NUCES",3,"BSSE","M",21,"3.32","90.01","Sindh",NULL,False
+112,"FAST NUCES",3,"BSCS","M",19,"1.13","37.92","Sindh","Lack of interest in program",True
+113,"FAST NUCES",3,"BSSE","F",21,"2.08","75.25","Sindh","Family or personal problems",True
+114,"FAST NUCES",3,"BSCS","F",18,"2.25","21.47","Sindh","Family or personal problems",True
+115,"FAST NUCES",3,"BSSE","F",20,"2.43","94.85","Sindh",NULL,False
+116,"FAST NUCES",3,"BSCS","F",24,"2.18","63.92","Sindh",NULL,False
+117,"FAST NUCES",3,"BBA","M",21,"2.26","57.58","Sindh","Family or personal problems",True
+118,"FAST NUCES",3,"BSCS","M",25,"3.28","53.90","Sindh",NULL,False
+119,"FAST NUCES",3,"BSCS","F",20,"2.32","72.07","Sindh",NULL,False
+120,"FAST NUCES",3,"BSSE","F",18,"2.82","57.11","Sindh","Family or personal problems",True
+121,"FAST NUCES",3,"BSSE","F",22,"1.78","79.51","Sindh","Lack of interest in program",True
+122,"FAST NUCES",3,"BSCS","M",22,"1.50","62.37","Sindh","Financial difficulties",True
+123,"FAST NUCES",3,"BSIT","F",24,"1.60","65.03","Sindh",NULL,False
+124,"FAST NUCES",3,"BBA","M",22,"2.29","62.66","Sindh",NULL,False
+125,"FAST NUCES",3,"BSSE","F",21,"1.86","54.06","Sindh",NULL,False
+126,"UET Lahore",2,"BSIT","F",22,"3.41","63.29","Punjab",NULL,False
+127,"UET Lahore",2,"BSIT","M",23,"3.50","72.09","Punjab",NULL,False
+128,"UET Lahore",2,"BBA","M",18,"2.63","80.19","Punjab",NULL,False
+129,"UET Lahore",2,"BSCS","F",24,"3.41","59.32","Punjab",NULL,False
+130,"UET Lahore",2,"BSIT","F",24,"2.73","74.43","Punjab",NULL,False
+131,"UET Lahore",2,"BSSE","M",24,"1.68","87.35","Punjab",NULL,False
+132,"UET Lahore",2,"BBA","F",18,"2.61","45.75","Punjab","Family or personal problems",True
+133,"UET Lahore",2,"BSSE","M",21,"1.91","72.90","Punjab",NULL,False
+134,"UET Lahore",2,"BSIT","M",24,"1.71","70.43","Punjab","Lack of interest in program",True
+135,"UET Lahore",2,"BSSE","M",20,"2.67","52.92","Punjab","Academic performance issues",True
+136,"UET Lahore",2,"BSIT","F",25,"1.42","59.99","Punjab","Academic performance issues",True
+137,"UET Lahore",2,"BBA","F",21,"1.24","30.16","Punjab","Lack of interest in program",True
+138,"UET Lahore",2,"BSIT","F",22,"2.79","76.28","Punjab","Lack of interest in program",True
+139,"UET Lahore",2,"BSSE","F",25,"3.01","59.77","Punjab",NULL,False
+140,"UET Lahore",2,"BSCS","M",22,"2.58","90.69","Punjab",NULL,False
+141,"UET Lahore",2,"BSIT","F",25,"3.69","66.26","Punjab",NULL,False
+142,"UET Lahore",2,"BBA","F",18,"2.72","70.17","Punjab",NULL,False
+143,"UET Lahore",2,"BBA","M",22,"2.68","81.85","Punjab",NULL,False
+144,"UET Lahore",2,"BSIT","F",18,"3.27","71.84","Punjab",NULL,False
+145,"UET Lahore",2,"BSCS","M",21,"2.10","62.87","Punjab","Family or personal problems",True
+146,"UET Lahore",2,"BSCS","F",23,"2.64","44.53","Punjab","Family or personal problems",True
+147,"UET Lahore",2,"BSSE","F",21,"3.96","59.15","Punjab",NULL,False
+148,"UET Lahore",2,"BSSE","F",25,"1.51","39.60","Punjab","Lack of interest in program",True
+149,"UET Lahore",2,"BBA","M",24,"3.80","82.96","Punjab",NULL,False
+150,"UET Lahore",2,"BBA","M",23,"2.82","67.31","Punjab",NULL,False
+151,"LUMS",4,"BSSE","F",24,"1.64","32.05","KPK","Financial difficulties",True
+152,"LUMS",4,"BBA","F",20,"2.12","32.08","KPK","Family or personal problems",True
+153,"LUMS",4,"BBA","M",19,"2.31","34.73","KPK","Lack of interest in program",True
+154,"LUMS",4,"BBA","F",22,"2.99","59.73","KPK",NULL,False
+155,"LUMS",4,"BBA","F",22,"1.61","61.64","KPK",NULL,False
+156,"LUMS",4,"BSSE","F",20,"2.74","74.99","KPK",NULL,False
+157,"LUMS",4,"BSIT","M",25,"2.05","58.52","KPK","Academic performance issues",True
+158,"LUMS",4,"BSCS","F",22,"2.04","57.75","KPK",NULL,False
+159,"LUMS",4,"BSIT","F",22,"2.98","59.78","KPK",NULL,False
+160,"LUMS",4,"BSCS","M",19,"2.01","31.26","KPK","Lack of interest in program",True
+161,"LUMS",4,"BBA","F",18,"2.67","25.60","KPK","Academic performance issues",True
+162,"LUMS",4,"BBA","F",24,"3.72","51.14","KPK",NULL,False
+163,"LUMS",4,"BSCS","M",20,"1.81","95.63","KPK",NULL,False
+164,"LUMS",4,"BSSE","M",19,"1.90","54.24","KPK",NULL,False
+165,"LUMS",4,"BSSE","M",20,"2.52","45.64","KPK","Family or personal problems",True
+166,"LUMS",4,"BSCS","F",18,"2.43","97.97","KPK",NULL,False
+167,"LUMS",4,"BSSE","F",19,"2.94","75.67","KPK",NULL,False
+168,"LUMS",4,"BBA","F",20,"2.63","91.27","KPK",NULL,False
+169,"LUMS",4,"BSCS","F",22,"1.22","55.01","KPK","Lack of interest in program",True
+170,"LUMS",4,"BSIT","F",18,"2.77","84.60","KPK",NULL,False
+171,"LUMS",4,"BSIT","F",19,"3.43","83.36","KPK",NULL,False
+172,"LUMS",4,"BBA","M",20,"3.47","97.14","KPK",NULL,False
+173,"LUMS",4,"BSIT","F",20,"1.23","35.42","KPK","Academic performance issues",True
+174,"LUMS",4,"BSCS","M",24,"2.55","62.46","KPK","Financial difficulties",True
+175,"LUMS",4,"BSSE","M",22,"2.48","44.63","KPK","Family or personal problems",True
+176,"Punjab University",1,"BSSE","M",20,"2.06","52.16","Punjab",NULL,False
+177,"Punjab University",1,"BSCS","F",19,"3.40","67.60","Punjab",NULL,False
+178,"Punjab University",1,"BBA","M",22,"2.04","31.29","Punjab","Family or personal problems",True
+179,"Punjab University",1,"BSCS","F",21,"2.04","67.32","Punjab",NULL,False
+180,"Punjab University",1,"BEE","M",23,"1.48","69.32","Punjab","Academic performance issues",True
+181,"Punjab University",1,"BEE","F",23,"2.11","85.10","Punjab",NULL,False
+182,"Punjab University",1,"BBA","M",25,"2.96","53.14","Punjab","Lack of interest in program",True
+183,"Punjab University",1,"BBA","M",25,"1.32","75.91","Punjab","Financial difficulties",True
+184,"Punjab University",1,"BBA","M",25,"2.80","54.95","Punjab",NULL,False
+185,"Punjab University",1,"BEE","F",21,"2.00","96.85","Punjab",NULL,False
+186,"Punjab University",1,"BEE","F",25,"3.55","86.06","Punjab",NULL,False
+187,"Punjab University",1,"BEE","M",26,"1.45","22.31","Punjab","Family or personal problems",True
+188,"Punjab University",1,"BSCS","M",21,"2.38","48.16","Punjab","Lack of interest in program",True
+189,"Punjab University",1,"BEE","M",22,"1.86","52.17","Punjab",NULL,False
+190,"Punjab University",1,"BBA","F",23,"1.17","45.98","Punjab","Academic performance issues",True
+191,"Punjab University",1,"BEE","F",24,"3.35","51.33","Punjab",NULL,False
+192,"Punjab University",1,"BBA","F",23,"2.07","68.39","Punjab",NULL,False
+193,"Punjab University",1,"BEE","M",22,"3.09","64.82","Punjab",NULL,False
+194,"Punjab University",1,"BSCS","M",25,"2.32","56.86","Punjab",NULL,False
+195,"Punjab University",1,"BEE","M",23,"1.80","94.50","Punjab",NULL,False
+196,"Punjab University",1,"BBA","F",24,"2.80","66.96","Punjab","Family or personal problems",True
+197,"Punjab University",1,"BEE","F",23,"3.52","79.49","Punjab",NULL,False
+198,"Punjab University",1,"BBA","F",23,"1.99","75.64","Punjab",NULL,False
+199,"Punjab University",1,"BBA","M",21,"2.91","38.21","Punjab","Academic performance issues",True
+200,"Punjab University",1,"BBA","M",22,"3.44","74.72","Punjab",NULL,False
+201,"Punjab University",1,"BBA","F",25,"3.56","61.30","Punjab",NULL,False
+202,"Punjab University",1,"BBA","M",26,"1.53","73.57","Punjab",NULL,False
+203,"Punjab University",1,"BSCS","M",25,"1.73","56.47","Punjab",NULL,False
+204,"Punjab University",1,"BBA","F",22,"2.09","93.32","Punjab",NULL,False
+205,"Punjab University",1,"BEE","M",23,"3.36","63.75","Punjab",NULL,False
+206,"Punjab University",1,"BBA","F",25,"3.45","70.73","Punjab",NULL,False
+207,"Punjab University",1,"BSCS","M",26,"2.39","40.66","Punjab","Academic performance issues",True
+208,"Punjab University",1,"BSCS","F",24,"2.30","95.01","Punjab",NULL,False
+209,"Punjab University",1,"BEE","M",21,"3.60","57.04","Punjab",NULL,False
+210,"Punjab University",1,"BBA","M",21,"2.67","78.99","Punjab","Lack of interest in program",True
+211,"Punjab University",1,"BEE","M",21,"3.63","81.97","Punjab",NULL,False
+212,"Punjab University",1,"BBA","M",23,"2.91","88.48","Punjab",NULL,False
+213,"Punjab University",1,"BBA","M",21,"3.66","50.65","Punjab",NULL,False
+214,"Punjab University",1,"BBA","F",21,"3.27","80.60","Punjab",NULL,False
+215,"Punjab University",1,"BEE","M",22,"2.89","41.37","Punjab","Academic performance issues",True
+216,"Punjab University",1,"BBA","M",26,"2.51","24.43","Punjab","Lack of interest in program",True
+217,"Punjab University",1,"BBA","F",21,"2.50","66.74","Punjab",NULL,False
+218,"Punjab University",1,"BEE","M",23,"3.34","84.48","Punjab",NULL,False
+219,"Punjab University",1,"BEE","F",24,"2.04","71.96","Punjab","Family or personal problems",True
+220,"Punjab University",1,"BSCS","F",24,"1.76","70.33","Punjab",NULL,False
+221,"Punjab University",1,"BBA","M",21,"3.71","53.38","Punjab",NULL,False
+222,"Punjab University",1,"BBA","M",22,"1.81","79.57","Punjab",NULL,False
+223,"Punjab University",1,"BEE","F",26,"1.86","66.67","Punjab",NULL,False
+224,"Punjab University",1,"BSCS","F",26,"1.66","89.14","Punjab",NULL,False
+225,"Punjab University",1,"BBA","M",25,"1.87","87.72","Punjab",NULL,False
+226,"Punjab University",1,"BSCS","M",25,"3.43","64.47","Punjab",NULL,False
+227,"Punjab University",1,"BEE","F",25,"3.62","91.27","Punjab",NULL,False
+228,"Punjab University",1,"BEE","F",26,"3.09","78.23","Punjab",NULL,False
+229,"Punjab University",1,"BEE","F",22,"2.39","53.04","Punjab","Lack of interest in program",True
+230,"Punjab University",1,"BEE","F",25,"1.63","60.03","Punjab","Family or personal problems",True
+231,"Punjab University",1,"BEE","F",23,"2.69","35.36","Punjab","Academic performance issues",True
+232,"Punjab University",1,"BEE","F",26,"3.69","78.52","Punjab",NULL,False
+233,"Punjab University",1,"BBA","M",23,"1.63","56.81","Punjab","Family or personal problems",True
+234,"Punjab University",1,"BSCS","F",26,"2.64","55.88","Punjab",NULL,False
+235,"Punjab University",1,"BSCS","M",23,"2.98","60.57","Punjab",NULL,False
